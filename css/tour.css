@@ -1,0 +1,693 @@
+.tour-plan {
+    padding-bottom: 76px;
+}
+
+.tour-content {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.tour-background {
+    width: 100%;
+}
+
+.tour-background img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.tour-explain {
+    width: 100%;
+    position: relative;
+    margin-top: 55px;
+    padding-bottom: 145px;
+}
+
+.tour-explain img {
+    width: 100%;
+    max-width: calc(100% - (100% - 1200px) * 0.4);
+    position: absolute;
+    z-index: 1;
+    top: 0;
+}
+
+.tour-explain .tour-explain-header {
+    width: 100%;
+    text-align: center;
+    font-size: calc(48px + (100vw - 1920px) * 0.0083);
+    font-weight: bold;
+    color: #28474E;
+}
+
+.tour-explain .tour-explain-line {
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-top: 6px solid #008BAC;
+}
+
+.tour-explain .tour-explain-description {
+    font-size: calc(24px + (100vw - 1920px) * 0.0083);
+    font-weight: bold;
+    color: #28474E;
+    margin-left: calc(100% * 440 / 1920);
+    margin-top: 45px;
+    max-width: 950px;
+    width: calc(100% * 920 / 1920);
+    position: relative;
+    z-index: 2;
+}
+
+.tour-feedback {
+    width: 100%;
+    background-color: rgba(240, 253, 253, 1);
+    padding-top: 92px;
+}
+
+.tour-feedback .tour-feedback-header {
+    width: 100%;
+}
+
+.tour-feedback .tour-feedback-header img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.tour-feedback .tour-feedback-card {
+    width: 100%;
+    background-color: #ffffff;
+    padding: 57px 67px 60px 80px;
+    border-radius: 10px;
+    margin-top: 62px;
+    margin-bottom: 20px;
+    border-top: 10px solid #FABE37;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.16);
+}
+
+.tour-feedback .tour-feedback-card .tour-feedback-card-head {
+    font-size: 38px;
+    color: #28474E;
+    margin-bottom: 50px;
+}
+
+.tour-feedback .tour-feedback-card .tour-feedback-card-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tour-feedback-card-content .feedback-content-left {
+    width: max-content;
+}
+
+.tour-feedback-card-content .feedback-content-left img {
+    width: 100%;
+    max-width: 540px;
+}
+
+.tour-feedback-card-content .feedback-content-right {
+    width: 100%;
+    max-width: 470px;
+}
+
+.tour-feedback-card-content .feedback-content-right .feedback-content-right-top {
+    font-size: 24px;
+    color: #BA8602;
+    margin-bottom: 55px;
+    font-weight: bold;
+}
+
+.tour-feedback-card-content .feedback-content-right .feedback-content-right-bottom {
+    background-color: rgba(222, 167, 30, 0.15);
+    padding: 20px 40px;
+}
+
+.feedback-content-right .feedback-content-right-bottom div:first-child {
+    color: #28474E;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.feedback-content-right .feedback-content-right-bottom div:last-child {
+    color: #28474E;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 29px;
+}
+
+.tour-foods {
+    width: 100%;
+    margin-top: 90px;
+}
+
+.tour-foods .tour-foods-title {
+    font-size: 38px;
+    color: #28474E;
+    font-weight: bold;
+    position: relative;
+    padding-left: 30px;
+    margin-bottom: 45px;
+}
+
+.tour-foods .tour-foods-title:before {
+    content: '';
+    background: #FABE37;
+    display: inline-block;
+    position: absolute;
+    border-radius: 50%;
+    border: 0;
+    left: 3px;
+    width: 32px;
+    height: 32px;
+    z-index: 1;
+    text-align: center;
+    line-height: 50px;
+    color: #fff;
+    font-size: 30px;
+    margin-top: 10px;
+}
+.tour-foods-content {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.tour-foods-content .tour-foods-content-item {
+    max-width: 380px;
+    width: 30%;
+}
+
+.tour-foods-content .tour-foods-content-item .tour-foods-content-item-cnt {
+    width: 100%;
+}
+
+.tour-foods-content-item-cnt img{
+    width: 100%;
+    max-width: 100%;
+}
+
+.tour-foods-content-item-cnt .name-food{
+    font-size: 24px;
+    font-weight: bold;
+    color: #008BAC;
+    margin-top: 34px;
+    margin-bottom: 20px;
+}
+
+.tour-foods-content-item-cnt .name-detail{
+    color: #28474E;
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 1px solid #008BAC;
+    padding: 10px 0;
+}
+
+.tour-other {
+    width: 100%;
+    margin-top: 140px;
+    background-color: #5CB0C4;
+    padding-bottom: 100px;
+}
+
+.tour-other .tour-content {
+    display: flex;
+    padding-top: 40px;
+}
+
+.tour-other .tour-other-title {
+    max-width: 400px;
+    width: 33%;
+    margin-top: 75px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: -20px;
+}
+
+.tour-other .tour-other-title .tour-other-title-label{
+    font-size: 46px;
+    font-weight: bold;
+    color: #FFFFFF;
+    line-height: 64px;
+}
+
+.tour-other .tour-other-title img{
+    width: 100%;
+    max-width: 320px;
+}
+
+.tour-other .tour-other-area {
+    max-width: 400px;
+    width: 33%;
+    position: relative;
+}
+
+.tour-other .tour-other-area img {
+    max-width: 100%;
+    width: 100%;
+}
+
+.tour-other .tour-other-area-btn {
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    right: 0;
+    bottom: 27px;
+    text-align: center;
+}
+
+.tour-other .tour-other-area-btn a{
+    padding: 16px 50px;
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 60px;
+}
+
+.tour-other-area .tour-other-area-btn a.area-1 {
+    background-color: #ED8FB4;
+}
+
+.tour-other-area .tour-other-area-btn a.area-2 {
+    background-color: #3A9BE5;
+}
+
+.tour-line {
+    width: 100%;
+}
+
+.tour-line img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.tour-campaign {
+    width: 100%;
+    padding-top: 20px;
+    background-color: #F6F6F6;
+    position: relative;
+}
+
+.tour-campaign img.bgr{
+    width: 100%;
+    max-width: calc(100% - (100% - 1200px) * 0.22);
+    position: absolute;
+    z-index: 1;
+}
+
+.tour-campaign .tour-campaign-header {
+    position: relative;
+    z-index: 1;
+    padding-top: 130px;
+    text-align: center;
+    font-size: calc(82px + (100vw - 1920px) * 0.0083);
+    color: #28474E;
+}
+
+.tour-campaign .tour-campaign-sub-header {
+    margin-top: 18px;
+    text-align: center;
+    font-size: calc(24px + (100vw - 1920px) * 0.0083);
+    color: #333333;
+}
+
+.tour-campaign .tour-slider {
+    margin-top: 76px;
+    display: flex;
+    gap: 50px;
+}
+
+.tour-campaign .tour-slider .slider {
+    width: 20%;
+    height: calc(693px - (1920px - 100vw) * 220 / 720);
+    margin-left: 30px;
+    position: relative;
+}
+
+.tour-campaign .tour-slider .slider .slider_image {
+    position: relative;
+}
+
+.tour-campaign .tour-slider .slider .slider_image .slider_img_bgr {
+    position: absolute;
+    top: 5px;
+}
+
+.tour-campaign .tour-slider .slider .slider_image .slider_img_bgr img {
+    width: 100%;
+}
+
+.tour-campaign .tour-slider .slider .slider_image .slider_img {
+    position: absolute;
+    top: 0px;
+    right: 14px;
+    width: 100%;
+}
+
+.tour-campaign .tour-slider .slider .slider_image .slider_img img {
+    width: 100%;
+}
+
+.tour-campaign .tour-slider .slider .gift_campaign_slider_detail {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    word-break: break-all;
+    left: 0;
+    right: 0;
+}
+.tour-campaign .tour-slider .slider .gift_campaign_slider_detail div:first-child {
+    font-size: 24px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    height: 66px;
+}
+
+.tour-campaign .tour-slider .slider .gift_campaign_slider_detail div:last-child {
+    font-size: 16px;
+}
+
+@media screen and (max-width: 768px) { 
+
+    .tour-plan {
+        padding-bottom: 20px;
+    }
+
+    .tour-background {
+        margin-top: -68px;
+    }
+
+    .tour-explain {
+        width: 100%;
+        position: relative;
+        margin-top: 40px;
+        padding-bottom: 40px;
+    }
+    
+    .tour-explain img {
+        width: 100%;
+        max-width: calc(100% - 39px);
+        position: unset;
+        margin-top: 32px;
+    }
+    
+    .tour-explain .tour-explain-header {
+        width: 100%;
+        text-align: center;
+        font-size: 24px;
+        padding: 0 90px;
+        font-weight: bold;
+        color: #28474E;
+    }
+    
+    .tour-explain .tour-explain-line {
+        width: 100px;
+        margin: 0 auto;
+        margin-top: 18px;
+        border-top: 3px solid #008BAC;
+    }
+    
+    .tour-explain .tour-explain-description {
+        font-size: 12px;
+        font-weight: bold;
+        color: #28474E;
+        padding: 0 39px;
+        margin-left: 0;
+        margin-top: 45px;
+        width: 100%;
+        position: relative;
+        z-index: 2;
+    }
+
+    .tour-feedback {
+        width: 100%;
+        background-color: rgba(240, 253, 253, 1);
+        padding: 0 39px;
+        padding-top: 18px;
+        padding-bottom: 40px;
+    }
+    
+    .tour-feedback .tour-feedback-header {
+        width: 100%;
+    }
+    
+    .tour-feedback .tour-feedback-header img {
+        width: 100%;
+        max-width: 100%;
+    }
+    
+    .tour-feedback .tour-feedback-card {
+        width: 100%;
+        background-color: #ffffff;
+        padding: 32px 15px;
+        border-radius: 10px;
+        margin-top: 40px;
+        margin-bottom: 20px;
+        border-top: 10px solid #FABE37;
+        box-shadow: 0 0 30px rgba(0, 0, 0, 0.16);
+    }
+    
+    .tour-feedback .tour-feedback-card .tour-feedback-card-head {
+        font-size: 18px;
+        color: #28474E;
+        margin-bottom: 24px;
+    }
+    
+    .tour-feedback .tour-feedback-card .tour-feedback-card-content {
+        display: block;
+        justify-content: space-between;
+    }
+    
+    .tour-feedback-card-content .feedback-content-left {
+        width: 100%;
+    }
+    
+    .tour-feedback-card-content .feedback-content-left img {
+        width: 100%;
+        max-width: 100%;
+    }
+    
+    .tour-feedback-card-content .feedback-content-right {
+        width: 100%;
+    }
+    
+    .tour-feedback-card-content .feedback-content-right .feedback-content-right-top {
+        font-size: 16px;
+        color: #BA8602;
+        margin-top: 24px;
+        margin-bottom: 24px;
+        font-weight: bold;
+    }
+    
+    .tour-feedback-card-content .feedback-content-right .feedback-content-right-bottom {
+        background-color: rgba(222, 167, 30, 0.15);
+        padding: 10px 16px;
+    }
+    
+    .feedback-content-right .feedback-content-right-bottom div:first-child {
+        color: #28474E;
+        font-size: 12px;
+        font-weight: bold;
+    }
+    
+    .feedback-content-right .feedback-content-right-bottom div:last-child {
+        color: #28474E;
+        font-size: 12px;
+        font-weight: bold;
+        margin-top: 12px;
+    }
+
+    .tour-foods {
+        width: 100%;
+        margin-top: 48px;
+    }
+    
+    .tour-foods .tour-foods-title {
+        font-size: 20px;
+        color: #28474E;
+        font-weight: bold;
+        position: relative;
+        padding-left: 30px;
+        margin-bottom: 45px;
+    }
+    
+    .tour-foods .tour-foods-title:before {
+        content: '';
+        background: #FABE37;
+        display: inline-block;
+        position: absolute;
+        border-radius: 50%;
+        border: 0;
+        left: 3px;
+        width: 20px;
+        height: 20px;
+        z-index: 1;
+        text-align: center;
+        line-height: 50px;
+        color: #fff;
+        font-size: 30px;
+        margin-top: 5px;
+    }
+    .tour-foods-content {
+        width: 100%;
+        display: block;
+        justify-content: space-between;
+    }
+    
+    .tour-foods-content .tour-foods-content-item {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    
+    .tour-foods-content .tour-foods-content-item .tour-foods-content-item-cnt {
+        width: 100%;
+    }
+    
+    .tour-foods-content-item-cnt img{
+        width: 100%;
+        max-width: 100%;
+    }
+    
+    .tour-foods-content-item-cnt .name-food{
+        font-size: 24px;
+        font-weight: bold;
+        color: #008BAC;
+        margin-top: 34px;
+        margin-bottom: 20px;
+    }
+    
+    .tour-foods-content-item-cnt .name-detail{
+        color: #28474E;
+        font-size: 20px;
+        font-weight: bold;
+        border-bottom: 1px solid #008BAC;
+        padding: 10px 0;
+    }
+    
+    .tour-other {
+        width: 100%;
+        margin-top: 0;
+        background-color: #5CB0C4;
+        padding-bottom: 100px;
+    }
+    
+    .tour-other .tour-content {
+        display: flex;
+        padding-top: 40px;
+    }
+    
+    .tour-other .tour-other-title {
+        max-width: 100%;
+        width: 100%;
+        margin-top: 75px;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-bottom: -20px;
+        padding: 0 39px;
+        padding-top: 40px;
+    }
+    
+    .tour-other .tour-other-title .tour-other-title-label{
+        font-size: 24px;
+        font-weight: bold;
+        color: #FFFFFF;
+        line-height: 36px;
+    }
+    
+    .tour-other .tour-other-title img{
+        width: 100%;
+        max-width: 90px;
+    }
+    
+    .tour-other .tour-other-area {
+        display: flex;
+        max-width: 100%;
+        width: 50%;
+        position: relative;
+    }
+    
+    .tour-other .tour-other-area img {
+        max-width: 100%;
+        width: 100%;
+    }
+    
+    .tour-other .tour-other-area-btn {
+        position: absolute;
+        z-index: 1;
+        left: 0;
+        right: 0;
+        bottom: 27px;
+        text-align: center;
+    }
+    
+    .tour-other .tour-other-area-btn a{
+        padding: 8px 28px;
+        color: #FFFFFF;
+        font-size: 16px;
+        font-weight: bold;
+        text-decoration: none;
+        border-radius: 60px;
+    }
+    
+    .tour-other-area .tour-other-area-btn a.area-1 {
+        background-color: #ED8FB4;
+    }
+    
+    .tour-other-area .tour-other-area-btn a.area-2 {
+        background-color: #3A9BE5;
+    }
+    
+    .tour-line {
+        width: 100%;
+        margin-top: -10px;
+    }
+    
+    .tour-line img {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .tour-campaign img.bgr {
+        left: -31px;
+        width: calc(100% + 26px);
+        max-width: calc(100% + 26px);
+        position: absolute;
+        z-index: 1;
+    }
+
+    .tour-campaign .tour-campaign-header {
+        padding-top: 55px;
+        font-size: 33px;
+        text-align: left;
+        position: relative;
+        z-index: 1;
+        padding-left: 39px;
+    }
+
+    .tour-campaign .tour-campaign-sub-header {
+        margin-top: 18px;
+        text-align: left;
+        font-size: 12px;
+        color: #333333;
+        padding-left: 39px;
+    }
+
+    .tour-campaign .tour-slider .slider {
+        width: 20%;
+        height: 493px;
+        margin-left: 30px;
+        position: relative;
+    }
+
+    .tour-campaign .tour-slider .slider .gift_campaign_slider_detail div:first-child {
+        font-size: 18px;
+        margin-top: 18px;
+        margin-bottom: 11px;
+        height: 49px;
+    }
+    
+    .tour-campaign .tour-slider .slider .gift_campaign_slider_detail div:last-child {
+        font-size: 12px;
+    }
+}

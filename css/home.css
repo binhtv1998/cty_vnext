@@ -1,0 +1,1076 @@
+.home-page .home_banner {
+    position: relative;
+}
+
+.home-page .home_banner img {
+    width: 100%;
+}
+
+.home-page .home_banner .home_banner_header {
+    position: absolute;
+    width: 100%;
+}
+
+.home-page .home_banner .home_banner_header .shizuoka_bank {
+    float: left;
+    padding: 10px;
+}
+
+.home-page .home_banner .home_banner_header .shizuoka_bank img {
+    height: 30px;
+}
+
+.home-page .home_banner .home_banner_header .menu_icon {
+    position: absolute;
+    right: 17px;
+    top: 20px;
+    width: 118px;
+    height: 118px;
+    cursor: pointer;
+    z-index: 300;
+    transition: opacity .25s ease;
+    background-color: #ffffff;
+    border-radius: 50%;
+    padding: 12px 0;
+    display: flex;
+    align-items: center;
+}
+
+
+.home-page .home_banner .home_banner_header .menu_icon img {
+    height: 59px;
+}
+
+.home-page .home_banner .current_campaign {
+    position: absolute;
+    bottom: 4px;
+    right: 0px;
+    width: 100%;
+    display: flex;
+    justify-content: right;
+}
+
+.home-page .home_banner .current_campaign img {
+    width: 47%;
+}
+
+.home-page .home_banner .current_campaign .icon_show_top {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 30%;
+    right: 19px;
+    cursor: pointer;
+}
+
+/*anniversary*/
+.home-page .anniversary {
+    max-width: 100%;
+    width: 1200px;
+    margin: 150px auto 0px auto;
+}
+
+.home-page .anniversary .anniversary_banner {
+    position: relative;
+}
+
+.home-page .anniversary .anniversary_banner .anniversary_left {
+    position: relative;
+    width: 70%;
+}
+
+.home-page .anniversary .anniversary_banner .anniversary_left .anniversary_left_title {
+    position: absolute;
+    text-align: center;
+    top: -20%;
+    width: 100%;
+}
+
+.home-page .anniversary .anniversary_banner .anniversary_left .anniversary_left_title img {
+    width: 35%;
+}
+
+.home-page .anniversary .anniversary_banner .anniversary_left .anniversary_left_banner {
+    background: #F4F4F4;
+}
+
+.home-page .anniversary .anniversary_banner .anniversary_left .anniversary_left_banner img {
+    width: 85%;
+    display: flex;
+    margin: auto;
+}
+
+.home-page .anniversary .anniversary_banner .anniversary_right {
+    position: absolute;
+    float: right;
+    top: -80px;
+    right: 10%;
+}
+
+.home-page .anniversary .anniversary_banner .anniversary_right img {
+    width: 155px;
+}
+
+.home-page .anniversary .anniversary_content {
+    line-height: 1.8;
+    text-align: center;
+    font-size: 24px;
+    width: 80%;
+    margin: 30px 0 30px 10%;
+    line-height: 48px;
+    font-weight: bold;
+
+}
+
+/* location */
+
+.home-page .outstanding {
+    background-color: #F0FDFD;
+    width: 1660px;
+    max-width: 100%;
+    height: 1220px;
+    max-height: 100%;
+    margin-left: auto;
+    margin-bottom: 136px;
+}
+
+.home-page .location {
+    background-color: #F0FDFD;
+    width: 1200px;
+    max-width: 100%;
+    margin: 50px auto 150px auto;
+    padding: 100px 8%;
+    position: relative;
+    margin-left: 0;
+}
+
+.home-page .location .location_title {
+    font-size: 64px;
+    line-height: 64px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 44px;
+    color: #28474E;
+}
+
+.home-page .location .location_content {
+    font-size: 18px;
+    font-weight: 500;
+    margin: auto;
+    padding: 0 40px;
+    font-weight: bold;
+    line-height: 32px;
+}
+
+.home-page .location_map {
+    background-color: #ffffff;
+    max-width: 1040px;
+    height: 660px;
+    padding: 10px;
+    margin: 47px auto 0 auto;
+    position: relative;
+}
+
+.home-page .location_map .map_detail {
+    background-color: #F4F4F4;
+    width: 100%;
+    text-align: center;
+    height: 100%;
+    padding: 18px;
+}
+
+.home-page .location_map .map_detail img {
+    height: 551px;
+    width: 571.05px;
+    margin: auto;
+}
+
+.home-page .location_map .location_men {
+    position: absolute;
+    right: -106px;
+    top: 323px;
+    height: 406px;
+    width: 249px;
+}
+
+.home-page .location .location_woman {
+    left: -14%;
+    position: absolute;
+    bottom: -7%;
+    width: 50%;
+}
+
+.home-page .location .location_woman img {
+    width: 100%;
+}
+
+
+/*recommended_tour*/
+.home-page .recommended_tour {
+    background-color: #5CB0C4;
+    position: relative;
+    margin-bottom: 381px;
+    height: 918px;
+}
+
+.home-page .recommended_tour .recommended_detail {
+    max-width: 100%;
+    width: 1200px;
+    color: #FFFFFF;
+    padding-top: 228px;
+    margin: auto;
+}
+
+.home-page .recommended_tour .recommended_detail .recommended_title {
+    font-size: 68px;
+    line-height: 68px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+
+.home-page .recommended_tour .recommended_detail .recommended_content {
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: bold;
+}
+
+
+.home-page .recommended_tour .recommended_img {
+    max-width: 100%;
+    width: 1200px;
+    color: #FFFFFF;
+    margin: auto;
+    display: flex;
+    position: relative;
+    bottom: -200px;
+    justify-content: center;
+}
+
+.home-page .recommended_tour .recommended_img .tour_img {
+    position: relative;
+    width: 400px;
+    height: 480px;
+}
+
+.home-page .recommended_tour .recommended_img .tour_img .tour_img_icon {
+    position: absolute;
+    text-align: center;
+    top: -20%;
+    width: 100%;
+}
+
+.home-page .recommended_tour .recommended_img .tour_img .tour_img_icon img {
+    width: 50%;
+}
+
+.home-page .recommended_tour .recommended_img .tour_img .tour_img_btn {
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+}
+
+.home-page .recommended_tour .recommended_img .tour_img .tour_img_btn a {
+    position: absolute;
+    color: #fff;
+    padding: 0 15%;
+    cursor: pointer;
+    height: 60px;
+    border-radius: 100px;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    text-decoration: none;
+    bottom: 0;
+}
+
+.home-page .recommended_tour .recommended_img .tour_img .tour_img_location img {
+    width: 100%;
+}
+
+.home-page .recommended_tour .recommended_globe {
+    position: absolute;
+    right: 231px;
+    top: -85px;
+    width: 670px;
+    height: 650px;
+}
+
+.home-page .recommended_tour .recommended_globe img {
+    width: 100%;
+    height: 100%;
+}
+
+/*gift_campaign*/
+.home-page .gift_campaign {
+    background-color: #F6F6F6;
+}
+
+
+.home-page .gift_campaign .gift_campaign_menu img {
+    height: 20px;
+    width: 100%;
+}
+
+.home-page .gift_campaign .gift_campaign_title {
+    display: flex;
+    justify-content: center;
+    margin: 50px 0 0 0;
+    position: relative;
+
+}
+
+.home-page .gift_campaign .campaign_title_text {
+    margin: auto;
+}
+
+.home-page .gift_campaign .campaign_title_text div:first-child {
+    color: #28474E;
+}
+
+.home-page .gift_campaign .gift_campaign_title img {
+    width: 13%;
+    height: 13%;
+    margin: 25px auto;
+}
+
+.home-page .gift_campaign .gift_campaign_title .campaign_title_text div:first-child {
+    font-size: 82px;
+    line-height: 106px;
+    font-weight: 400;
+}
+
+.home-page .gift_campaign .gift_campaign_title .campaign_title_text div:last-child {
+    font-size: 24px;
+    line-height: 32px;
+    margin-left: 75px;
+    color: #333333;
+}
+
+.home-page .gift_campaign .gift_campaign_slider {
+    display: flex;
+    gap: 50px;
+}
+
+.home-page .gift_campaign .gift_campaign_slider .slider {
+    width: 20%;
+    // height: 520px;
+    margin-left: 30px;
+}
+
+.home-page .gift_campaign .gift_campaign_slider .slider .slider_image {
+    position: relative;
+}
+
+.home-page .gift_campaign .gift_campaign_slider .slider .slider_image .slider_img_bgr img {
+    width: 100%;
+}
+
+.home-page .gift_campaign .gift_campaign_slider .slider .slider_image .slider_img {
+    position: absolute;
+    top: -14px;
+    right: 14px;
+    width: 100%;
+}
+
+.home-page .gift_campaign .gift_campaign_slider .slider .slider_image .slider_img img {
+    width: 100%;
+}
+
+.home-page .gift_campaign .gift_campaign_slider .slider .gift_campaign_slider_detail div:first-child {
+    font-size: 24px;
+    line-height: 38px;
+    font-weight: 400;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    color: #28474E;
+}
+
+.home-page .gift_campaign .gift_campaign_slider .slider .gift_campaign_slider_detail div:last-child {
+    font-size: 16px;
+    line-height: 28px;
+    color: #333333;
+    font-weight: 400;
+}
+
+.home-page .gift_campaign .gift_campaign_bottom {
+    background-color: #F6F6F6;
+    position: relative;
+}
+
+.home-page .gift_campaign .gift_campaign_bottom .gift_campaign_btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.home-page .gift_campaign .gift_campaign_bottom .gift_campaign_btn a {
+    position: relative;
+    color: #fff;
+    background-color: #E6141F;
+    width: 600px;
+    cursor: pointer;
+    height: 130px;
+    border-radius: 100px;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.home-page .gift_campaign .gift_campaign_bottom .bgr_footer img {
+    width: 100%;
+    height: 400px;
+}
+
+.home-page .gift_campaign .gift_campaign_bottom .gift_campaign_footer {
+    // background-color: #3E474A;
+    position: absolute;
+    /* top: 70%; */
+    width: 100%;
+    bottom: 35px;
+}
+
+.home-page .gift_campaign .gift_campaign_bottom .gift_campaign_footer .gift_campaign_footer_follow {
+    font-size: 48px;
+    line-height: 48px;
+    color: #fff;
+    font-weight: 600;
+    text-align: center;
+}
+
+.home-page .gift_campaign .gift_campaign_bottom .gift_campaign_footer .gift_campaign_footer_media {
+    font-size: 20px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.home-page .gift_campaign .gift_campaign_bottom .gift_campaign_footer .gift_campaign_footer_media a {
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    margin-right: 110px;
+}
+
+.home-page .gift_campaign .gift_campaign_bottom .gift_campaign_footer .gift_campaign_footer_media a:last-child {
+    margin-right: 0 !important;
+}
+
+.home-page .gift_campaign .gift_campaign_bottom .gift_campaign_footer .gift_campaign_footer_media a img {
+    height: 88px;
+    width: 88px;
+}
+
+.home-page .gift_campaign .gift_campaign_bottom .gift_campaign_footer_bgr {
+    position: absolute;
+    bottom: 193px;
+    z-index: 9;
+    width: 100%;
+}
+
+
+.home-page .gift_campaign .gift_campaign_bottom .gift_campaign_footer_bgr img {
+    width: 27%;
+}
+
+.home-page .gift_campaign .gift_campaign_bottom .gift_campaign_footer_bgr img:first-child {
+    left: 0;
+    float: left;
+}
+
+.home-page .gift_campaign .gift_campaign_bottom .gift_campaign_footer_bgr img:last-child {
+    right: 0;
+    float: right;
+}
+
+/*footer*/
+.home-page .footer {
+    width: 100%;
+}
+
+.home-page .footer .footer_top {}
+
+.home-page .footer .footer_bottom {
+    background-color: #ffffff;
+    height: 100px;
+}
+
+.home-page .footer .footer_bottom .footer_bottom_img {
+    margin: 35px;
+    gap: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.home-page .footer .footer_bottom .footer_bottom_img img {
+    height: 30px;
+}
+
+.home-page .footer .footer_bottom .copyright {
+    text-align: center;
+    font-size: 11px;
+    line-height: 11px;
+}
+
+.home-page .bgr-pink {
+    background-color: #ED8FB4;
+}
+
+.home-page .bgr-yellow {
+    background-color: #DEA71E;
+}
+
+.home-page .bgr-blue {
+    background-color: #3A9BE5;
+}
+
+@media screen and (max-width: 1780px) {
+    .home-page .recommended_tour .recommended_globe {
+        right: 2%;
+    }
+}
+
+@media screen and (max-width: 1658px) {
+    .home-page .location .location_woman {
+        left: -48px;
+        position: absolute;
+        bottom: -7%;
+        width: 42%;
+    }
+
+    .home-page .location_map .location_men {
+        position: absolute;
+        right: -3%;
+        bottom: -18%;
+        height: auto;
+        width: 18%;
+        top: unset
+    }
+
+    .home-page .recommended_tour .recommended_globe {
+        right: 1%;
+    }
+}
+
+@media screen and (max-width: 1350px) {
+    .home-page .recommended_tour .recommended_globe {
+        right: 2%;
+        width: 580px;
+        height: 570px;
+    }
+}
+
+@media screen and (max-width: 1199px) {
+    .home-page .recommended_tour {
+        margin-bottom: 140px;
+        height: auto;
+    }
+
+    .home-page .recommended_tour .recommended_detail {
+        padding-left: 20px;
+        padding-top: 100px;
+    }
+
+    .home-page .recommended_tour .recommended_globe {
+        width: 45%;
+        height: 45%;
+    }
+
+    .home-page .recommended_tour .recommended_img {
+        bottom: -100px;
+    }
+
+    .home-page .recommended_tour .recommended_img .tour_img {
+        height: auto;
+    }
+
+    .home-page .recommended_tour .recommended_img .tour_img .tour_img_icon {
+        top: -17%;
+    }
+
+    .home-page .recommended_tour .recommended_img .tour_img .tour_img_btn a {
+        height: 60px;
+        font-size: 24px;
+        padding: 0 15%;
+    }
+}
+
+@media screen and (max-width:1100px) {
+    .home-page .home_banner .home_banner_header .shizuoka_bank img {
+        height: 22px;
+    }
+    .home-page .recommended_tour .recommended_detail .recommended_title {
+        font-size: 48px;
+        line-height: 48px;
+    }
+}
+
+
+@media screen and (max-width: 900px) {
+    .home-page .recommended_tour .recommended_img .tour_img .tour_img_btn a {
+        height: 50px;
+        font-size: 20px;
+    }
+}
+
+
+
+@media screen and (max-width: 767px) {
+
+    .home-page .home_banner .home_banner_header {
+        width: calc(100% - 54px);
+        margin: 20px;
+    }
+
+    .home-page .home_banner .home_banner_header .menu_icon {
+        right: 0px;
+        top: 0px;
+        width: 52px;
+        height: 52px;
+    }
+
+    .home-page .home_banner .home_banner_header .shizuoka_bank {
+        padding: 0;
+    }
+    .home-page .home_banner .home_banner_header .shizuoka_bank img {
+        height: 52px;
+        padding: 0;
+    }
+
+    .home-page .home_banner .home_banner_header .menu_icon img {
+        height: 27px;
+    }
+
+    .home-page .home_banner .current_campaign img {
+        width: 92%;
+        margin: auto;
+        /* height: 31px; */
+        margin-bottom: 16px;
+    }
+
+    .home-page .home_banner .current_campaign .icon_show_top {
+        width: 8%;
+        height: auto;
+        top: 25%;
+        right: 6%;
+        margin-bottom: 0 !important;
+    }
+
+    /*anniversary*/
+    .home-page .anniversary {
+        margin: 110px auto 0px auto;
+    }
+
+    .home-page .anniversary .anniversary_banner .anniversary_left {
+        position: relative;
+        width: 95%;
+    }
+
+    .home-page .anniversary .anniversary_banner .anniversary_left .anniversary_left_banner img {
+        width: 70%;
+        display: flex;
+        margin: 0;
+    }
+
+    .home-page .anniversary .anniversary_banner .anniversary_left .anniversary_left_banner {
+
+        padding-top: 30px;
+    }
+
+    .home-page .anniversary .anniversary_banner .anniversary_left .anniversary_left_title {
+        right: 12%;
+    }
+
+    .home-page .anniversary .anniversary_banner .anniversary_right {
+        top: -20%;
+        right: 5%;
+        width: 25%;
+    }
+
+    .home-page .anniversary .anniversary_banner .anniversary_right img {
+        width: 80%;
+    }
+
+    .home-page .anniversary .anniversary_content {
+        width: 90%;
+        margin: 30px 5%;
+        font-size: 12px;
+        line-height: 22px;
+    }
+
+    /* location */
+    .home-page .outstanding {
+        height: auto;
+        margin-bottom: 0;
+        padding-bottom: 40px;
+    }
+
+    .home-page .location {
+        width: 100%;
+        margin: 0;
+        padding: 50px 8%;
+    }
+
+    .home-page .location_map {
+        height: auto;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .home-page .location .location_title {
+        font-size: 33px;
+        line-height: 33px;
+    }
+
+    .home-page .location .location_content {
+        font-size: 12px;
+        padding: 0;
+        line-height: 22px;
+    }
+
+    .home-page .location .location_woman {
+        left: 0;
+        width: 60%;
+        bottom: 0;
+    }
+
+    .home-page .location .location_woman img {
+        width: 50%;
+    }
+
+    .home-page .location_map .location_men {
+        position: absolute;
+        right: -8%;
+        bottom: -10%;
+        height: 32%;
+        width: 23%;
+        top: unset;
+    }
+
+
+    .home-page .location_map .map_detail {
+        background-color: #F4F4F4;
+        width: 100%;
+        text-align: center;
+        height: 100%;
+        padding: 18px;
+    }
+
+    .home-page .location_map .map_detail img {
+        height: 90%;
+        width: 90%;
+        margin: auto;
+    }
+
+    /*recommended_tour*/
+    .home-page .recommended_tour {
+        margin-bottom: 36px;
+        height: auto;
+    }
+
+    .home-page .recommended_tour .recommended_detail {
+        padding-top: 32px;
+        max-width: 90%;
+    }
+
+    .home-page .recommended_tour .recommended_detail .recommended_title {
+        font-size: 33px;
+        line-height: 33px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .home-page .recommended_tour .recommended_detail .recommended_content {
+        padding: 0;
+        font-size: 12px;
+        line-height: 22px;
+    }
+
+    .home-page .recommended_tour .recommended_img {
+        margin: 0;
+        bottom: -40px;
+        max-width: 100%;
+    }
+
+    .home-page .recommended_tour .recommended_globe {
+        position: unset;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        height: auto;
+        margin-top: 30px;
+    }
+
+    .home-page .recommended_tour .recommended_img .tour_img {
+        position: relative;
+        width: 33.3%;
+    }
+
+    .home-page .recommended_tour .recommended_img .tour_img .tour_img_icon {
+        top: 0px;
+    }
+
+    .home-page .recommended_tour .recommended_globe img {
+        width: 80%;
+    }
+
+    .home-page .recommended_tour .recommended_img .tour_img .tour_img_btn a {
+        margin-bottom: 15px;
+        padding: 0 15%;
+        font-size: 10px;
+        height: 30px;
+    }
+
+    /*gift_campaign*/
+    .home-page .gift_campaign .gift_campaign_menu img {
+        height: 12px;
+        width: 100%;
+    }
+
+    .home-page .gift_campaign .gift_campaign_title {
+        margin: 20px 0px;
+    }
+
+    .home-page .gift_campaign .gift_campaign_title img {
+        width: 30%;
+        margin: 0;
+    }
+
+    .home-page .gift_campaign .gift_campaign_title .img_campaign_sun {
+        position: absolute;
+        right: 2px;
+        top: -8px;
+        width: 39%;
+        margin: 0;
+    }
+
+    .home-page .gift_campaign .gift_campaign_title .campaign_title_text {
+        position: inherit;
+        top: -17px;
+    }
+
+    .home-page .gift_campaign .gift_campaign_title .campaign_title_text div:first-child {
+        font-size: 33px;
+        line-height: 38px;
+        margin-left: 25px;
+    }
+
+    .home-page .gift_campaign .gift_campaign_title .campaign_title_text div:last-child {
+        font-size: 12px;
+        line-height: 22px;
+        margin-left: 25px;
+    }
+
+    .home-page .gift_campaign .gift_campaign_bottom .gift_campaign_footer .gift_campaign_footer_media a {
+        margin-right: 20%;
+    }
+
+    .home-page .gift_campaign .gift_campaign_bottom .gift_campaign_btn a {
+        width: 80%;
+        height: 59px;
+        font-size: 16px;
+        line-height: 16px;
+    }
+
+    .home-page .gift_campaign .gift_campaign_bottom .bgr_footer img {
+        height: 350px;
+    }
+
+    .home-page .footer .footer_bottom {
+        background-color: #ffffff;
+        height: 60px;
+    }
+
+    .home-page .gift_campaign .gift_campaign_slider .slider .gift_campaign_slider_detail div:first-child {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .home-page .gift_campaign .gift_campaign_slider .slider .gift_campaign_slider_detail div:last-child {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+
+    .home-page .gift_campaign .gift_campaign_bottom .gift_campaign_footer .gift_campaign_footer_follow {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .home-page .gift_campaign .gift_campaign_bottom .gift_campaign_footer .gift_campaign_footer_media a img {
+        height: 48px;
+        width: 48px;
+    }
+
+    .home-page .gift_campaign .gift_campaign_bottom .gift_campaign_footer .gift_campaign_footer_media a {
+        font-size: 12px;
+        line-height: 12px;
+    }
+
+    /*footer*/
+    .home-page .footer .footer_bottom {
+        height: 60px;
+    }
+
+    .home-page .footer .footer_bottom .footer_bottom_img {
+        margin: 23px 0;
+    }
+
+    .home-page .footer .footer_bottom .footer_bottom_img img {
+        height: 24px;
+    }
+
+    .home-page .footer .footer_bottom .copyright {
+        font-size: 9px;
+        line-height: 9px;
+    }
+
+    .only-pc {
+        display: none !important
+    }
+
+    .only-sp {
+        display: block !important
+    }
+}
+
+
+.only-pc {
+    display: block;
+}
+
+.only-sp {
+    display: none;
+}
+
+
+/* Slider */
+.slick-slider {
+    position: relative;
+
+    display: block;
+    box-sizing: border-box;
+
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    -ms-touch-action: pan-y;
+    touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.slick-list {
+    position: relative;
+
+    display: block;
+    overflow: hidden;
+
+    margin: 0;
+    padding: 0;
+}
+
+.slick-list:focus {
+    outline: none;
+}
+
+.slick-list.dragging {
+    cursor: pointer;
+    cursor: hand;
+}
+
+.slick-slider .slick-track,
+.slick-slider .slick-list {
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+
+.slick-track {
+    position: relative;
+    top: 0;
+    left: 0;
+
+    display: block;
+}
+
+.slick-track:before,
+.slick-track:after {
+    display: table;
+
+    content: '';
+}
+
+.slick-track:after {
+    clear: both;
+}
+
+.slick-loading .slick-track {
+    visibility: hidden;
+}
+
+.slick-slide {
+    display: none;
+    float: left;
+
+    height: 100%;
+    min-height: 1px;
+}
+
+[dir='rtl'] .slick-slide {
+    float: right;
+}
+
+.slick-slide img {
+    display: block;
+}
+
+.slick-slide.slick-loading img {
+    display: none;
+}
+
+.slick-slide.dragging img {
+    pointer-events: none;
+}
+
+.slick-initialized .slick-slide {
+    display: block;
+}
+
+.slick-loading .slick-slide {
+    visibility: hidden;
+}
+
+.slick-vertical .slick-slide {
+    display: block;
+
+    height: auto;
+
+    border: 1px solid transparent;
+}
+
+.slick-arrow.slick-hidden {
+    display: none;
+}
+
+.slick-dots {
+    display: none !important;
+}

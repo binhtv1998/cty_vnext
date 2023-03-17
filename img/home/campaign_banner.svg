@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="796" height="150" viewBox="0 0 796 150">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #e6141c;
+      }
+
+      .cls-3 {
+        fill: #f06294;
+      }
+
+      .cls-4 {
+        fill: #ffa825;
+      }
+
+      .cls-5 {
+        fill: #feea31;
+      }
+
+      .cls-6 {
+        fill: #d0d23d;
+      }
+
+      .cls-7 {
+        fill: #8ebf4a;
+      }
+
+      .cls-8 {
+        fill: #02c0a7;
+      }
+
+      .cls-9 {
+        fill: #56c6f5;
+      }
+
+      .cls-10, .cls-13 {
+        fill: none;
+        stroke-width: 3px;
+      }
+
+      .cls-10 {
+        stroke: #e6141f;
+      }
+
+      .cls-11 {
+        fill: #28474e;
+        font-size: 40px;
+      }
+
+      .cls-11, .cls-14 {
+        font-family: YuGothicUI-Regular, Yu Gothic UI;
+      }
+
+      .cls-12, .cls-14 {
+        fill: #e6141f;
+      }
+
+      .cls-13 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-14 {
+        font-size: 24px;
+      }
+    </style>
+  </defs>
+  <g id="キャンペーンバナー" transform="translate(-1124 -929)">
+    <rect id="Rectangle_41" data-name="Rectangle 41" class="cls-1" width="793" height="150" transform="translate(1127 929)"/>
+    <g id="Group_43" data-name="Group 43" transform="translate(1124 -1425)">
+      <rect id="Rectangle_74" data-name="Rectangle 74" class="cls-2" width="100" height="10" transform="translate(0 2354)"/>
+      <rect id="Rectangle_75" data-name="Rectangle 75" class="cls-3" width="99" height="10" transform="translate(100 2354)"/>
+      <rect id="Rectangle_76" data-name="Rectangle 76" class="cls-4" width="100" height="10" transform="translate(199 2354)"/>
+      <rect id="Rectangle_77" data-name="Rectangle 77" class="cls-5" width="99" height="10" transform="translate(299 2354)"/>
+      <rect id="Rectangle_78" data-name="Rectangle 78" class="cls-6" width="100" height="10" transform="translate(398 2354)"/>
+      <rect id="Rectangle_79" data-name="Rectangle 79" class="cls-7" width="99" height="10" transform="translate(498 2354)"/>
+      <rect id="Rectangle_80" data-name="Rectangle 80" class="cls-8" width="100" height="10" transform="translate(597 2354)"/>
+      <rect id="Rectangle_81" data-name="Rectangle 81" class="cls-9" width="99" height="10" transform="translate(697 2354)"/>
+    </g>
+    <line id="Line_6" data-name="Line 6" class="cls-10" y2="30" transform="translate(1763 970.51) rotate(30)"/>
+    <line id="Line_7" data-name="Line 7" class="cls-10" y2="30" transform="translate(1227 970.51) rotate(-30)"/>
+    <text id="プレゼントキャンペーン実施中_" data-name="プレゼントキャンペーン実施中！" class="cls-11" transform="translate(1497 1044)"><tspan x="-242.676" y="0">プレゼントキャンペーン実施中！</tspan></text>
+    <circle id="Ellipse_8" data-name="Ellipse 8" class="cls-12" cx="35" cy="35" r="35" transform="translate(1811 975)"/>
+    <path id="Path_912" data-name="Path 912" class="cls-13" d="M0,0,8,8,0,16" transform="translate(1853.5 1006.5) rotate(90)"/>
+    <text id="静岡銀行厳選_体験ギフトが抽選で当たる_" data-name="静岡銀行厳選！体験ギフトが抽選で当たる！" class="cls-14" transform="translate(1498 992)"><tspan x="-220.441" y="0">静岡銀行厳選！体験ギフトが抽選で当たる！</tspan></text>
+  </g>
+</svg>

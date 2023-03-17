@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="63.684" viewBox="0 0 48 63.684">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #707070;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        font-size: 17px;
+        font-family: ShipporiMincho-SemiBold, Shippori Mincho;
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <g id="menu" transform="translate(-0.195 1)">
+    <line id="Line_1" data-name="Line 1" class="cls-1" x2="40.431" transform="translate(4.611 0)"/>
+    <line id="Line_2" data-name="Line 2" class="cls-1" x2="40.431" transform="translate(4.611 13.892)"/>
+    <line id="Line_3" data-name="Line 3" class="cls-1" x2="40.431" transform="translate(4.611 27.783)"/>
+    <text id="Menu-2" data-name="Menu" class="cls-2" transform="translate(0.195 56.685)"><tspan x="0" y="0">Menu</tspan></text>
+  </g>
+</svg>

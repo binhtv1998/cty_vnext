@@ -1,0 +1,1 @@
+{"xPosMoney":"115","yPosMoney":"679","xPosTai":"194","yPosTai":"591","xPosXiu":"500","yPosXiu":"591","xPosDatCuoc":"345","yPosDatCuoc":"736","xPosColorTai":"163","yPosColorTai":"515","xPosColorXiu":"531","yPosColorXiu":"514"}
